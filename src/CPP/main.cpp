@@ -1,8 +1,8 @@
 //Author:
-//Agyeya Mishra
-//Department of Civil Engineering
-//Delhi Technological University (formerly, Delhi College of Engineering)
-//New Delhi, India
+//Love Barot
+//Software Syetem(ICT)
+//DAIICT
+//Gandhinagar, Gujarat, India.
 
 
 //C++ program to minimise cash flow among a set of friends who have borrowed money
